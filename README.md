@@ -1,8 +1,8 @@
 Admin Details:
 --------------
 
-UserName : 'Admin'
-Password : 'jashwanth'
+UserName : `Admin`
+Password : `jashwanth`
 
 Notes:
 ------
